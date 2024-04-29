@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp"
+    android:layout_marginVertical="8dp"
+    android:backgroundTint="@color/my_primary"
+    android:background="@drawable/rounded_corner">
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/note_title_tv"
+        android:text="Note title"
+        android:textColor="@color/my_text"
+        android:textSize="18sp"
+        android:fontFamily="@font/poppins_semibold"
+        android:layout_marginVertical="4dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/note_content_tv"
+        android:text="Note Content"
+        android:textColor="@color/my_text"
+        android:textSize="18sp"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:fontFamily="@font/poppins_regular"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/note_time_tv"
+        android:text="Note Content"
+        android:textColor="@color/my_text"
+        android:textSize="12sp"
+        android:gravity="right"
+        android:fontFamily="@font/poppins_regular"
+        android:layout_marginVertical="2dp"/>
+
+</LinearLayout> 

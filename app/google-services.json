@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162938102628",
+    "project_id": "quillpix-94bb2",
+    "storage_bucket": "quillpix-94bb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162938102628:android:421100291ad148bf975071",
+        "android_client_info": {
+          "package_name": "com.example.quillpix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChVtbKoFtyLVFt1pZ6PGkXDJmX0gyBsZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
