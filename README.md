@@ -38,3 +38,5 @@ QuillPix caters to a wide range of users, including:
 * Collaboration features
 
 **Feel free to explore the source code and contribute to the ongoing development of QuillPix!**
+
+##Check it out: https://t.me/quillpix/3
